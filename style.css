@@ -1,0 +1,25 @@
+p {
+font-size: 18px;
+}
+
+a {
+font-size: 22px;
+font-style: italic;
+}
+
+p.first {
+text-align: center;
+}
+
+p.second {
+text-align: right;
+}
+
+ul {
+font-weight: bold;
+}
+
+li.last {
+text-decoration: line-through;
+}
+
